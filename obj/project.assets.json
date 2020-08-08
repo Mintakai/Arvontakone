@@ -1,8 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {},
-    ".NETCoreApp,Version=v3.1/win-x64": {}
+    ".NETCoreApp,Version=v3.1": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
@@ -14,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\localUser\\OneDrive\\School\\Savonia\\Ohjelmoinnin_Perusteet\\Dev_area\\Testing_Area\\Testing_Area\\Testing_Area.csproj",
+      "projectUniqueName": "C:\\Users\\localUser\\source\\repos\\Arvontakone\\Testing_Area.csproj",
       "projectName": "Testing_Area",
-      "projectPath": "C:\\Users\\localUser\\OneDrive\\School\\Savonia\\Ohjelmoinnin_Perusteet\\Dev_area\\Testing_Area\\Testing_Area\\Testing_Area.csproj",
+      "projectPath": "C:\\Users\\localUser\\source\\repos\\Arvontakone\\Testing_Area.csproj",
       "packagesPath": "C:\\Users\\localUser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\localUser\\OneDrive\\School\\Savonia\\Ohjelmoinnin_Perusteet\\Dev_area\\Testing_Area\\Testing_Area\\obj\\",
+      "outputPath": "C:\\Users\\localUser\\source\\repos\\Arvontakone\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\localUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,18 +57,6 @@
           {
             "name": "Microsoft.AspNetCore.App.Ref",
             "version": "[3.1.2, 3.1.2]"
-          },
-          {
-            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-            "version": "[3.1.4, 3.1.4]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Runtime.win-x64",
-            "version": "[3.1.4, 3.1.4]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-            "version": "[3.1.4, 3.1.4]"
           }
         ],
         "frameworkReferences": {
@@ -78,11 +65,6 @@
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
-      }
-    },
-    "runtimes": {
-      "win-x64": {
-        "#import": []
       }
     }
   }
