@@ -8,7 +8,7 @@ namespace Testing_Area
         {
             char[] mainText;
             string sMainText = ("TERVETULOA ARVONTAKONEESEEN!");
-
+            
             string empty = " ";
             int c = 0;
 

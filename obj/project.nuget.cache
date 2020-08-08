@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "p8MTWFGrsNWR39lqFgYkZYFoVuR6wpCtzfsS8hX7k0Fhw8RgV6hb5zPRLn4/SCowzbmDZDN0Q/b+NPMZl2pUdA==",
+  "dgSpecHash": "ILWJ3QP7UP2Jt4jhr2ypIMs3fqjVKGrkakYXzZFDYWM+AwdaOceKv5xj3Pwm3gFQR32f1vN8sTI3fcMH2A2lPg==",
   "success": true,
   "projectFilePath": "C:\\Users\\localUser\\source\\repos\\Arvontakone\\Testing_Area.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\localUser\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.4\\microsoft.netcore.app.runtime.win-x64.3.1.4.nupkg.sha512",
+    "C:\\Users\\localUser\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.4\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.4.nupkg.sha512",
+    "C:\\Users\\localUser\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.4\\microsoft.aspnetcore.app.runtime.win-x64.3.1.4.nupkg.sha512",
     "C:\\Users\\localUser\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []

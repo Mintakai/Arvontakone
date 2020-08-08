@@ -11,4 +11,8 @@
     <OutputPath>C:\Users\localUser\OneDrive\School\Savonia\Ohjelmoinnin_Perusteet\Dev_area\Builds\Testing_Area\</OutputPath>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>Builds\</OutputPath>
+  </PropertyGroup>
+
 </Project>
