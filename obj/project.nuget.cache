@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XcYi9MgVo9VxAOeClprGv0518MHivGFhLEAl582RoheOedpVesCfv40jlWcBrCL1rvz9DQ6SAcmkuZ+aXtYatg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\localUser\\OneDrive\\School\\Savonia\\Ohjelmoinnin_Perusteet\\Dev_area\\Testing_Area\\Testing_Area\\Testing_Area.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\localUser\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.4\\microsoft.netcore.app.runtime.win-x64.3.1.4.nupkg.sha512",
+    "C:\\Users\\localUser\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.4\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.4.nupkg.sha512",
+    "C:\\Users\\localUser\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.4\\microsoft.aspnetcore.app.runtime.win-x64.3.1.4.nupkg.sha512",
+    "C:\\Users\\localUser\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
