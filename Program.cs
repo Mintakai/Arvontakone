@@ -4,11 +4,13 @@ namespace Testing_Area
 {
     class Program
     {
+        static int laskuri = 0;
+
         static void CreateTitle()
         {
             char[] mainText;
             string sMainText = ("TERVETULOA ARVONTAKONEESEEN!");
-            
+
             string empty = " ";
             int c = 0;
 
@@ -105,7 +107,7 @@ namespace Testing_Area
         {
             MainMenu();
         }
-        
+
         static void StartArvontakone()
         {
             Console.Clear();
@@ -115,6 +117,7 @@ namespace Testing_Area
         static void StartDeathroll()
         {
             Console.Clear();
+            NollaaLaskuri();
             PrintDeathRollTable(RandomizeTillDone(AskNumber()));
         }
 
@@ -141,7 +144,7 @@ namespace Testing_Area
         {
             int numero;
 
-            Console.Write("Anna numero 0-5000000: ");
+            Console.Write("Anna numero 2-5000000: ");
             numero = int.Parse(Console.ReadLine());
             return numero;
         }
@@ -160,6 +163,7 @@ namespace Testing_Area
 
             int i = 0;
             int j = 0;
+            int k = -1;
 
             while (i != 1)
             {
@@ -168,6 +172,12 @@ namespace Testing_Area
                 i = table[j];
                 aNumero = i;
                 j++;
+                k++;
+            }
+
+            for (i = 0; i < k; i++)
+            {
+                Laskuri();
             }
 
             Array.Resize(ref table, j);
@@ -207,6 +217,8 @@ namespace Testing_Area
             }
 
             Console.Write(Environment.NewLine);
+            Console.WriteLine(Laskuri() + " rollia ykköseen");
+            Console.Write(Environment.NewLine);
             Console.WriteLine("1. Arvo uudelleen!");
             Console.WriteLine("2. Palaa päävalikkoon");
             Console.Write(Environment.NewLine);
@@ -221,6 +233,17 @@ namespace Testing_Area
             {
                 MainMenu();
             }
+        }
+
+        static int Laskuri()
+        {
+            laskuri++;
+            return laskuri;
+        }
+
+        static void NollaaLaskuri()
+        {
+            laskuri = 0;
         }
     }
 }

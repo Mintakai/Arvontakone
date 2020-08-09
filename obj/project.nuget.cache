@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ILWJ3QP7UP2Jt4jhr2ypIMs3fqjVKGrkakYXzZFDYWM+AwdaOceKv5xj3Pwm3gFQR32f1vN8sTI3fcMH2A2lPg==",
+  "dgSpecHash": "lxA9haTDmpBJCaC/n/xItRl+QoT0vht4qGmMbit3Fy2XTIELLA8GfePQ3nRTUcmU82HywqKfnH9S5QvNWZ9u2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\localUser\\source\\repos\\Arvontakone\\Testing_Area.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\localUser\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.4\\microsoft.netcore.app.runtime.win-x64.3.1.4.nupkg.sha512",
-    "C:\\Users\\localUser\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.4\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.4.nupkg.sha512",
-    "C:\\Users\\localUser\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.4\\microsoft.aspnetcore.app.runtime.win-x64.3.1.4.nupkg.sha512",
-    "C:\\Users\\localUser\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\toni_\\Documents\\Dev_area\\ICT-Insinooriprojekti\\ICT-Insinooriprojekti_Pelikokonaisuus\\Arvontakone\\Testing_Area.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

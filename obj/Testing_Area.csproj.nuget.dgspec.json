@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\localUser\\source\\repos\\Arvontakone\\Testing_Area.csproj": {}
+    "C:\\Users\\toni_\\Documents\\Dev_area\\ICT-Insinooriprojekti\\ICT-Insinooriprojekti_Pelikokonaisuus\\Arvontakone\\Testing_Area.csproj": {}
   },
   "projects": {
-    "C:\\Users\\localUser\\source\\repos\\Arvontakone\\Testing_Area.csproj": {
+    "C:\\Users\\toni_\\Documents\\Dev_area\\ICT-Insinooriprojekti\\ICT-Insinooriprojekti_Pelikokonaisuus\\Arvontakone\\Testing_Area.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\localUser\\source\\repos\\Arvontakone\\Testing_Area.csproj",
+        "projectUniqueName": "C:\\Users\\toni_\\Documents\\Dev_area\\ICT-Insinooriprojekti\\ICT-Insinooriprojekti_Pelikokonaisuus\\Arvontakone\\Testing_Area.csproj",
         "projectName": "Testing_Area",
-        "projectPath": "C:\\Users\\localUser\\source\\repos\\Arvontakone\\Testing_Area.csproj",
-        "packagesPath": "C:\\Users\\localUser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\localUser\\source\\repos\\Arvontakone\\obj\\",
+        "projectPath": "C:\\Users\\toni_\\Documents\\Dev_area\\ICT-Insinooriprojekti\\ICT-Insinooriprojekti_Pelikokonaisuus\\Arvontakone\\Testing_Area.csproj",
+        "packagesPath": "C:\\Users\\toni_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\toni_\\Documents\\Dev_area\\ICT-Insinooriprojekti\\ICT-Insinooriprojekti_Pelikokonaisuus\\Arvontakone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\localUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\toni_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -47,35 +47,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            },
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[3.1.4, 3.1.4]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[3.1.4, 3.1.4]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[3.1.4, 3.1.4]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
