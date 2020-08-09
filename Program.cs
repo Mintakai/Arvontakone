@@ -153,7 +153,7 @@ namespace Testing_Area
         {
             Random rng = new Random();
 
-            aNumero = rng.Next(0, aNumero);
+            aNumero = rng.Next(1, aNumero);
             return aNumero;
         }
 
