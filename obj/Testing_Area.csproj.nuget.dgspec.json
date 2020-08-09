@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toni_\\Documents\\Dev_area\\ICT-Insinooriprojekti\\ICT-Insinooriprojekti_Pelikokonaisuus\\Arvontakone\\Testing_Area.csproj": {}
+    "C:\\Users\\toni_\\source\\repos\\Arvontakone\\Testing_Area.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toni_\\Documents\\Dev_area\\ICT-Insinooriprojekti\\ICT-Insinooriprojekti_Pelikokonaisuus\\Arvontakone\\Testing_Area.csproj": {
+    "C:\\Users\\toni_\\source\\repos\\Arvontakone\\Testing_Area.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toni_\\Documents\\Dev_area\\ICT-Insinooriprojekti\\ICT-Insinooriprojekti_Pelikokonaisuus\\Arvontakone\\Testing_Area.csproj",
+        "projectUniqueName": "C:\\Users\\toni_\\source\\repos\\Arvontakone\\Testing_Area.csproj",
         "projectName": "Testing_Area",
-        "projectPath": "C:\\Users\\toni_\\Documents\\Dev_area\\ICT-Insinooriprojekti\\ICT-Insinooriprojekti_Pelikokonaisuus\\Arvontakone\\Testing_Area.csproj",
+        "projectPath": "C:\\Users\\toni_\\source\\repos\\Arvontakone\\Testing_Area.csproj",
         "packagesPath": "C:\\Users\\toni_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toni_\\Documents\\Dev_area\\ICT-Insinooriprojekti\\ICT-Insinooriprojekti_Pelikokonaisuus\\Arvontakone\\obj\\",
+        "outputPath": "C:\\Users\\toni_\\source\\repos\\Arvontakone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\toni_\\AppData\\Roaming\\NuGet\\NuGet.Config",

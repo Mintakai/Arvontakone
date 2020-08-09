@@ -69,3 +69,16 @@ C:\Users\toni_\Documents\Dev_area\ICT-Insinooriprojekti\ICT-Insinooriprojekti_Pe
 C:\Users\toni_\Documents\Dev_area\ICT-Insinooriprojekti\ICT-Insinooriprojekti_Pelikokonaisuus\Arvontakone\obj\Debug\netcoreapp3.1\Testing_Area.dll
 C:\Users\toni_\Documents\Dev_area\ICT-Insinooriprojekti\ICT-Insinooriprojekti_Pelikokonaisuus\Arvontakone\obj\Debug\netcoreapp3.1\Testing_Area.pdb
 C:\Users\toni_\Documents\Dev_area\ICT-Insinooriprojekti\ICT-Insinooriprojekti_Pelikokonaisuus\Arvontakone\obj\Debug\netcoreapp3.1\Testing_Area.genruntimeconfig.cache
+C:\Users\toni_\source\repos\Arvontakone\Builds\netcoreapp3.1\Testing_Area.exe
+C:\Users\toni_\source\repos\Arvontakone\Builds\netcoreapp3.1\Testing_Area.deps.json
+C:\Users\toni_\source\repos\Arvontakone\Builds\netcoreapp3.1\Testing_Area.runtimeconfig.json
+C:\Users\toni_\source\repos\Arvontakone\Builds\netcoreapp3.1\Testing_Area.runtimeconfig.dev.json
+C:\Users\toni_\source\repos\Arvontakone\Builds\netcoreapp3.1\Testing_Area.dll
+C:\Users\toni_\source\repos\Arvontakone\Builds\netcoreapp3.1\Testing_Area.pdb
+C:\Users\toni_\source\repos\Arvontakone\obj\Debug\netcoreapp3.1\Testing_Area.csprojAssemblyReference.cache
+C:\Users\toni_\source\repos\Arvontakone\obj\Debug\netcoreapp3.1\Testing_Area.AssemblyInfoInputs.cache
+C:\Users\toni_\source\repos\Arvontakone\obj\Debug\netcoreapp3.1\Testing_Area.AssemblyInfo.cs
+C:\Users\toni_\source\repos\Arvontakone\obj\Debug\netcoreapp3.1\Testing_Area.csproj.CoreCompileInputs.cache
+C:\Users\toni_\source\repos\Arvontakone\obj\Debug\netcoreapp3.1\Testing_Area.dll
+C:\Users\toni_\source\repos\Arvontakone\obj\Debug\netcoreapp3.1\Testing_Area.pdb
+C:\Users\toni_\source\repos\Arvontakone\obj\Debug\netcoreapp3.1\Testing_Area.genruntimeconfig.cache
