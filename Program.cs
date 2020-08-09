@@ -144,7 +144,7 @@ namespace Testing_Area
         {
             int numero;
 
-            Console.Write("Anna numero 2-5000000: ");
+            Console.Write("Anna kokonaisluku: ");
             numero = int.Parse(Console.ReadLine());
             return numero;
         }
